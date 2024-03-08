@@ -110,7 +110,7 @@ else
 
 Average error = sum/ number of readings 
 
- ### Graph :
+### Graph :
  ![Screenshot 2024-03-08 160925](https://github.com/shehanshajahan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/139317389/66ea5c6e-afec-4a82-bcb6-8c8aff67274e)
 
 
@@ -121,6 +121,9 @@ Average error = sum/ number of readings
 ![Screenshot 2024-03-08 161604](https://github.com/shehanshajahan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/139317389/c00e2b66-94ab-4918-8c67-3b53d7012732)
 ## ON Condition(distance>50,red)
 ![Screenshot 2024-03-08 162048](https://github.com/shehanshajahan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/139317389/66e2404a-4688-46e3-9b9b-2d8efda1f24b)
+
+### Schematic Representation :
+![Screenshot 2024-03-01 152559](https://github.com/shehanshajahan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/139317389/b0a1c250-439b-47ed-89e1-dd871409aff9)
 
 
 ### RESULTS :
